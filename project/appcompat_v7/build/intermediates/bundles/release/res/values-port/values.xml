@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/sit/new1/appcompat_v7/res/values-port/bools.xml -->
+    <eat-comment />
+
+    <bool name="abc_action_bar_embed_tabs">false</bool>
+
+</resources>
